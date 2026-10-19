@@ -1,0 +1,11 @@
+# Senha do banco: nunca versionar
+src/main/resources/db.properties
+
+# Maven / IDEs
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/

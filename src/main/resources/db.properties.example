@@ -1,0 +1,8 @@
+# Copie este arquivo para "db.properties" (na mesma pasta) e preencha com os seus dados.
+# O arquivo db.properties está no .gitignore e nunca deve ser enviado ao repositório.
+#
+# Formato com SID:           jdbc:oracle:thin:@HOST:1521:SID
+# Formato com service name:  jdbc:oracle:thin:@//HOST:1521/SERVICE_NAME
+db.url=jdbc:oracle:thin:@HOST:1521:SID
+db.user=SEU_USUARIO
+db.password=SUA_SENHA
