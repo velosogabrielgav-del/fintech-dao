@@ -1,6 +1,6 @@
 # Fintech DAO
 
-Camada de acesso a dados (DAO) de um sistema de finanças pessoais, desenvolvida em **Java** com banco de dados **Oracle** via **JDBC**. Projeto acadêmico em grupo (Grupo 45) do curso de Análise e Desenvolvimento de Sistemas da FIAP.
+Camada de acesso a dados (DAO) de um sistema de finanças pessoais, desenvolvida em **Java** com banco de dados **Oracle** via **JDBC**. Projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas da FIAP, desenvolvido por mim, individualmente, sem grupo.
 
 O sistema controla usuários, categorias, despesas e investimentos. Esta etapa do projeto cobre o mapeamento das entidades em classes Java e a comunicação com o banco por meio do padrão DAO.
 
